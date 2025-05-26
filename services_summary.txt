@@ -1,0 +1,5 @@
+Port 53 (DNS):
+- Used for resolving domain names to IP addresses (DNS).
+- Mostly uses UDP, but also uses TCP for zone transfers or large responses.
+- Common risks include DNS amplification attacks, spoofing, and tunneling for data exfiltration.
+- Should be restricted to internal clients and monitored closely.

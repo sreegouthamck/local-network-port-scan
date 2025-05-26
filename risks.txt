@@ -1,0 +1,7 @@
+Security Risks
+
+- Attackers send forged requests to a DNS server that responds with a large reply to a target victim.
+
+- Attackers trick DNS servers or clients into accepting malicious IP addresses for legit domains.
+
+- If a DNS server on port 53 is exposed to the internet without restrictions, it can be abused by attackers.

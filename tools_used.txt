@@ -1,0 +1,22 @@
+Tools Used
+----------
+
+1. Nmap:
+   - Used for scanning the local network to discover open ports, running services, and OS information.
+
+2. xsltproc:
+   - Used to convert Nmap XML output into a readable HTML report.
+
+3. curl:
+   - Used to fetch information about open ports and services from online sources like ports.cheat.sh.
+
+4. ip (ip a):
+   - Used to find the current IP address and subnet to identify the target network range.
+
+5. Git:
+   - Used to initialize and push the project to a GitHub repository.
+
+Optional Tools:
+---------------
+6. grep:
+   - Used to filter outputs in terminal when analyzing IP or service data.
