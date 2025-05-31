@@ -1,27 +1,27 @@
-# Nmap 7.95 scan initiated Mon May 26 20:11:47 2025 as: /usr/lib/nmap/nmap --privileged -sV -O -oN local_scan.txt 192.168.43.0/24
-Nmap scan report for 192.168.43.1
+# Nmap 7.95 scan initiated Mon May 26 20:11:47 2025 as: /usr/lib/nmap/nmap --privileged -sV -O -oN local_scan.txt 192.168.x.x
+Nmap scan report for 192.168.x.x
 Host is up (0.0032s latency).
 Not shown: 999 closed tcp ports (reset)
 PORT   STATE SERVICE VERSION
 53/tcp open  domain  dnsmasq 2.51
-MAC Address: 66:3A:B9:61:5C:7D (Unknown)
+MAC Address: 66:3A:B9:61:x.x (Unknown)
 Device type: general purpose
 Running: Linux 5.X
 OS CPE: cpe:/o:linux:linux_kernel:5
 OS details: Linux 5.10 - 5.19
 Network Distance: 1 hop
 
-Nmap scan report for 192.168.43.68
+Nmap scan report for 192.168.x.x
 Host is up (0.00070s latency).
-All 1000 scanned ports on 192.168.43.68 are in ignored states.
+All 1000 scanned ports on 192.168.x.x are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: 50:5A:65:9E:62:35 (AzureWave Technology)
+MAC Address: 50:5A:65:9E:x.x (AzureWave Technology)
 Too many fingerprints match this host to give specific OS details
 Network Distance: 1 hop
 
-Nmap scan report for 192.168.43.9
+Nmap scan report for 192.168.x.x
 Host is up (0.000074s latency).
-All 1000 scanned ports on 192.168.43.9 are in ignored states.
+All 1000 scanned ports on 192.168.x.x are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 Too many fingerprints match this host to give specific OS details
 Network Distance: 0 hops
